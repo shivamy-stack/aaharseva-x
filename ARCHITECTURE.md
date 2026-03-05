@@ -191,7 +191,7 @@ Before deploying to Vercel:
    - [ ] Verify Build settings (should be auto-detected)
 
 5. **Deployment**
-   - [ ] Deploy to Vercel
+   - [ ] Deploy to Vrunercel
    - [ ] Check Vercel logs for errors
    - [ ] Test deployed endpoints
    - [ ] Verify database connectivity
