@@ -1,7 +1,3 @@
 {
-  "version": 2,
-  "buildCommand": "npm run build",
-  "serverless": {
-    "default": "dist/index.cjs"
-  }
+  "version": 2
 }
